@@ -1,4 +1,4 @@
-sample-repository [![todoci badge](https://test-tci.rhcloud.com/b/todo-ci/sample-repository)](https://test-tci.rhcloud.com/r/todo-ci/sample-repository)
+sample-repository [![todoci badge](http://www.todo-ci.org/b/todo-ci/sample-repository)](http://www.todo-ci.org/r/todo-ci/sample-repository)
 =================
 
 Code repository that will have codes in all supported languages for todo CI testing and demo purposes!
@@ -8,3 +8,5 @@ Code repository that will have codes in all supported languages for todo CI test
  - `C++`
  - `js`
  - `php`
+ - `java`
+ - `C#`
