@@ -18,8 +18,8 @@ struct node {
 
 
 // format 1
-// @todo - make    this function more structred
-// and compact  modified a todo here
+// @todo - make this function more structred
+// and compact
 // and nice
 // @deadline - 12 dec 2014
 // @tags - ben, tim, hawk
