@@ -1,5 +1,5 @@
 /**
- * #todo - Google interview question:
+ * #todo - Google interview question
  * You are given set of strings, print all anagrams together
  */
 
