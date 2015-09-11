@@ -1,4 +1,4 @@
-sample-repository [![todoci badge](http://www.todo-ci.org/b/todo-ci/sample-repository)](http://www.todo-ci.org/r/todo-ci/sample-repository)
+sample-repository [![todofy badge](https://todofy.org/b/todo-ci/sample-repository)](https://todofy.org/r/todo-ci/sample-repository)
 =================
 
 Code repository that will have codes in all supported languages for todo CI testing and demo purposes!
